@@ -1,0 +1,28 @@
+{
+  "short_name": "Live",
+  "name": "Live - مساعد الطالب الذكي",
+  "description": "المساعد الذكي لتنظيم المواد الدراسية، المحاضرات، الجداول، ومؤقت البومودورو",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "theme_color": "#132540",
+  "background_color": "#F8FAFC",
+  "dir": "rtl",
+  "lang": "ar",
+  "categories": ["education", "productivity"],
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
